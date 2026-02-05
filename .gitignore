@@ -1,0 +1,36 @@
+/.venv
+/.env
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.db
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+.mypy_cache/
+.pyre/
+.dmypy.json
+.pytype/
+cython_debug/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# VS Code settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace 
+# macOS files
+.DS_Store
+Thumbs.db   
